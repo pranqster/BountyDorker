@@ -17,6 +17,6 @@ This tool is meant for educational and ethical recon only. Unauthorized use agai
 
 📜 License
 
-BountyDorker is licensed under the MIT License. See [LISENCE](https://github.com/pranqster/BountyDorker/blob/main/LICENSE) for more details.
+BountyDorker is licensed under the MIT License. See [LICENSE](https://github.com/pranqster/BountyDorker/blob/main/LICENSE) for more details.
 
 👨‍💻 Developed by [pranqster](https://github.com/pranqster)
